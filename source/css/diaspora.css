@@ -119,7 +119,7 @@ h1.title {font-size:30px;color:#333;line-height:1.3;position:relative;font-weigh
 .comment .gt-counts a{color:black;border-bottom:0;pointer-events:none;}
 .comment .gt-avatar-github{display:none;}
 .comment .gt-header-avatar{display:none;}
-.comment .gt-header-comment{margin-left: 0;!important;}
+.comment .gt-header-comment{margin-left: 0!important;}
 .comment .gt-header-preview{border-radius:0;}
 .comment .gt-btn-public{border-radius:0;}
 .comment .gt-btn-preview{border-radius:0;}
@@ -176,7 +176,7 @@ h1.title {font-size:30px;color:#333;line-height:1.3;position:relative;font-weigh
 .content a {background:transparent;color:#1980e6;text-decoration:none;}
 .content a:hover {color:#518dca;}
 .content hr {margin-top:21px;margin-bottom:21px;border:0;border-top:1px solid rgba(102,128,153,0.1)}
-.content p {margin:0 0 .8em;}
+.content p {margin:0 0 .8em; text-indent: 2em;}
 .content ul,.content ol {margin:10px 0;padding-left:20px;}
 .content ul li {list-style:disc;margin:5px 0;}
 .content ol li {list-style:decimal;margin:5px 0;}
