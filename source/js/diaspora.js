@@ -252,7 +252,7 @@ $(function() {
             }
         })
         if (!cover.t.attr('src')) {
-            alert('Please set the post thumbnail')
+            // alert('Please set the post thumbnail')
         }
         $('#preview').css('min-height', window.innerHeight)
         Diaspora.PS()
@@ -490,6 +490,5 @@ $(function() {
     if (comment.data('ae') == true){
         comment.click();
     }
-    console.log("%c Github %c","background:#24272A; color:#ffffff","","https://github.com/Fechin/hexo-theme-diaspora")
 })
 

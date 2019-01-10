@@ -52,3 +52,10 @@ favicon: /img/favicon-32x32.png
 
 # rss文件
 rss: atom.xml
+
+
+tags: /tags
+
+tag_map:
+  IT: it
+  Flutter: flutter
