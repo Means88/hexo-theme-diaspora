@@ -87,6 +87,7 @@ var Diaspora = {
             }
             document.title = title;
             $('#preview').html($(data).filter('#single'))
+            MathJax.Hub.Queue(["Typeset",MathJax.Hub])
             switch (flag) {
                 case 'push':
                     Diaspora.preview()
