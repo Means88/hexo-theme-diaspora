@@ -279,7 +279,7 @@ $(function() {
             if (e.state) location.href = e.state.u;
         })
         Diaspora.player();
-        $('.icon-icon, .image-icon').attr('href', '/')
+        $('.icon-icon, .image-icon').attr('href', '/blog')
         $('#top').show()
     }
     $(window).on('scroll', function() {
